@@ -1,0 +1,5 @@
+admin#Código de barras Incorreto#Hardware#Possuo um objeto o qual código de barras retorna outro na pesquisa.
+admin#Impressão Errada#Impressora#Quando peço a impressão de um arquivo, o que é impresso são arquivos passados.
+153#Queda constante de Internet#Rede#Problemas de conexão constante. Estou impossibilitado de continuar com o certas utilidades de minhas atividades por requerer uma internet constante.
+153#Inicialização Demorada#Software#A inicialização do computador chega a demorar questões de minutos.
+153#Não sou um ADMIN#Criação de usuário#A criação de meu login na empresa não me classificou como admin, estou impossibilitado de observar todos os chamados levantados.
